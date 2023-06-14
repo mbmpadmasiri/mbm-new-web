@@ -1,0 +1,8 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #FFFFFF;
+    background-image: -webkit-linear-gradient(270deg,rgba(71,139,136,1.00) 0%,rgba(49,184,212,1.00) 43.01%,rgba(49,212,62,1.00) 81.87%);
+    background-image: -moz-linear-gradient(270deg,rgba(71,139,136,1.00) 0%,rgba(49,184,212,1.00) 43.01%,rgba(49,212,62,1.00) 81.87%);
+    background-image: -o-linear-gradient(270deg,rgba(71,139,136,1.00) 0%,rgba(49,184,212,1.00) 43.01%,rgba(49,212,62,1.00) 81.87%);
+    background-image: linear-gradient(180deg,rgba(71,139,136,1.00) 0%,rgba(49,184,212,1.00) 43.01%,rgba(49,212,62,1.00) 81.87%);
+}
